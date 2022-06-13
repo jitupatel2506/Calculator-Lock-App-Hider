@@ -1,14 +1,14 @@
 {
-    "fb_banner" : "791693538876110_791693748876089_",
-    "fb_interstitial" : "791693538876110_791693862209411_",
-    "fb_native" : "791693538876110_791693948876069_",
+    "fb_banner" : "791693538876110_791693748876089",
+    "fb_interstitial" : "791693538876110_791693862209411",
+    "fb_native" : "791693538876110_791693948876069",
     "admob_pub_id": "pub-9090243785558447_",
     "admob_app_id": "ca-app-pub-9090243785558447~6305737446_",
     "admob_banner" : "ca-app-pub-9090243785558447/8548757408_",
     "admob_interstitial" :"ca-app-pub-9090243785558447/9670267385_",
     "admob_native" : "ca-app-pub-9090243785558447/8745280090_",
     "admob_open" : "ca-app-pub-9090243785558447/8997433679_",
-    "ad_type" : "1",
+    "ad_type" : "0",
     "new_pkg" : "com.gallery.vault",
     "is_version" : "false"
   }
